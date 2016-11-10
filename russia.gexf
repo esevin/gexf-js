@@ -1,0 +1,2372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2016-11-10">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="indegree" title="In-Degree" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="outdegree" title="Out-Degree" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="degree" title="Degree" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="eccentricity" title="Eccentricity" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="closnesscentrality" title="Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="harmonicclosnesscentrality" title="Harmonic Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="betweenesscentrality" title="Betweenness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="sentiment" title="Sentiment" type="string"></attribute>
+      <attribute id="hashtags" title="hashtags" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="elianabenador" label="elianabenador">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="10"></attvalue>
+          <attvalue for="degree" value="11"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.649351"></viz:size>
+        <viz:position x="393.1953" y="691.38184"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="rt_com" label="rt_com">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="465.1416" y="608.246"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="carminezozzora" label="carminezozzora">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="490.04504" y="685.11664"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="wikileaks" label="wikileaks">
+        <attvalues>
+          <attvalue for="indegree" value="10"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.584415"></viz:size>
+        <viz:position x="152.07214" y="640.7075"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="spotmegone" label="spotmegone">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="426.47723" y="635.2336"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="youarescrewed" label="youarescrewed">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="3"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.12987"></viz:size>
+        <viz:position x="-677.41174" y="-26.615654"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="trumpsuperpac" label="trumpsuperpac">
+        <attvalues>
+          <attvalue for="indegree" value="3"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.12987"></viz:size>
+        <viz:position x="-677.8663" y="2.913144"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="vlenxx" label="vlenxx">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="5"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.25974"></viz:size>
+        <viz:position x="522.75854" y="401.12262"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="dcexaminer" label="dcexaminer">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="550.6051" y="367.98566"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="kenndailjenner" label="kenndailjenner">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="4"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.194805"></viz:size>
+        <viz:position x="583.12067" y="-587.514"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="jcoledc__" label="jcoledc__">
+        <attvalues>
+          <attvalue for="indegree" value="3"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.12987"></viz:size>
+        <viz:position x="559.46484" y="-538.40485"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="justinraimondo" label="justinraimondo">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-666.39746" y="-54.212574"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="klsouth" label="klsouth">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="505.09723" y="366.529"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="justinbieberqld" label="justinbieberqld">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="563.217" y="-617.93085"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="beyoncexo_xo" label="beyoncexo_xo">
+        <attvalues>
+          <attvalue for="indegree" value="3"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.12987"></viz:size>
+        <viz:position x="602.1773" y="-549.81323"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="kyiiejenner_nyc" label="kyiiejenner_nyc">
+        <attvalues>
+          <attvalue for="indegree" value="3"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.12987"></viz:size>
+        <viz:position x="642.8163" y="-545.1465"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="holmogorov" label="holmogorov">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-325.94772" y="281.3804"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="business" label="business">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-308.75272" y="297.1897"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="serunim" label="serunim">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="65.76224" y="-626.6589"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="realalexjones" label="realalexjones">
+        <attvalues>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.064935"></viz:size>
+        <viz:position x="45.326492" y="-640.3853"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="reggsso_" label="reggsso_">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="448.60654" y="-65.67339"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="baytato" label="baytato">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="471.72925" y="-68.999756"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="amicableru" label="amicableru">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-508.98505" y="-432.54657"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="skynews" label="skynews">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-492.4977" y="-415.99704"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="ifortknox" label="ifortknox">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-236.60452" y="-497.08832"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="ingodidotrust" label="ingodidotrust">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-225.67781" y="-517.74066"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="rouslan5" label="rouslan5">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.064935"></viz:size>
+        <viz:position x="432.4217" y="230.19275"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="art2u2" label="art2u2">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="450.82846" y="211.82382"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="orochymaru_" label="orochymaru_">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-363.74747" y="-510.01025"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="wupton" label="wupton">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-358.72073" y="-487.18875"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="maddowblog" label="maddowblog">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="410.79608" y="244.75554"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="denisovazz" label="denisovazz">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="164.94872" y="669.8741"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="csinaco" label="csinaco">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="19"></attvalue>
+          <attvalue for="degree" value="19"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="11.168831"></viz:size>
+        <viz:position x="-418.76407" y="573.70496"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="wordsmithguy" label="wordsmithguy">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-278.77194" y="674.9723"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="realdonaldtrump" label="realdonaldtrump">
+        <attvalues>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.064935"></viz:size>
+        <viz:position x="-46.635845" y="727.63"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="stefanmolyneux" label="stefanmolyneux">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-364.55634" y="691.19037"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="darren32895836" label="darren32895836">
+        <attvalues>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.064935"></viz:size>
+        <viz:position x="-473.7378" y="480.90366"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="kennyskynews" label="kennyskynews">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-526.81726" y="542.5947"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="auditthemedia" label="auditthemedia">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-300.9595" y="592.10944"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="mcarrington" label="mcarrington">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-557.28094" y="623.3229"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="0hour1__" label="0hour1__">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-601.8935" y="530.82654"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="seienagomezbae" label="seienagomezbae">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="4"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.194805"></viz:size>
+        <viz:position x="590.1956" y="-508.7341"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="wisemankhalifa" label="wisemankhalifa">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="5"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.25974"></viz:size>
+        <viz:position x="647.7273" y="-495.04025"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="august_aisinna" label="august_aisinna">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="677.14984" y="-460.92136"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="rihannabltch_" label="rihannabltch_">
+        <attvalues>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.064935"></viz:size>
+        <viz:position x="607.4178" y="-469.28915"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="davidfilipov" label="davidfilipov">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-109.53396" y="-463.72876"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="slate" label="slate">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-126.53262" y="-447.70166"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="korrolev" label="korrolev">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="13"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-411.7696" y="-278.3114"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="indiebandsws" label="indiebandsws">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="13"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-388.47363" y="-276.60757"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="mayskolpino" label="mayskolpino">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="14"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="231.2515" y="-410.42535"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="infokatsaros" label="infokatsaros">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="14"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="224.5416" y="-432.81036"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="good_mum" label="good_mum">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.064935"></viz:size>
+        <viz:position x="18.091846" y="-649.74384"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="snowden" label="snowden">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-7.651046" y="-654.54614"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="billycrossover" label="billycrossover">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="4"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.25974"></viz:size>
+        <viz:position x="88.491714" y="646.45984"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="cernovich" label="cernovich">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="49.29318" y="641.1843"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="slava381977" label="slava381977">
+        <attvalues>
+          <attvalue for="indegree" value="74"></attvalue>
+          <attvalue for="outdegree" value="81"></attvalue>
+          <attvalue for="degree" value="155"></attvalue>
+          <attvalue for="modularity_class" value="15"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="0.0019357952" y="-0.0012303507"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="woljf" label="woljf">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="16"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-430.88858" y="-136.70276"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="qikipedia" label="qikipedia">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="16"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-454.2402" y="-135.86005"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="agnakagos" label="agnakagos">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="17"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-433.99115" y="78.764854"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="boingboing" label="boingboing">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="17"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-457.2644" y="80.82139"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="tatjapocke" label="tatjapocke">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="18"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="535.8516" y="60.294704"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="mellberr" label="mellberr">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="18"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="559.1684" y="61.740376"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="spicy_drama" label="spicy_drama">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="19"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="394.0223" y="83.525276"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="musicnews_feed" label="musicnews_feed">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="19"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="386.5865" y="105.67847"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="judgejeanine" label="judgejeanine">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="497.60757" y="427.16843"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="trumpusmaximus" label="trumpusmaximus">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-649.722" y="451.84662"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="immigrant4trump" label="immigrant4trump">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-611.1391" y="343.7368"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="rt_america" label="rt_america">
+        <attvalues>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="modularity_class" value="15"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.064935"></viz:size>
+        <viz:position x="-276.11285" y="-768.93713"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="lovejlopez" label="lovejlopez">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="modularity_class" value="20"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.064935"></viz:size>
+        <viz:position x="590.6477" y="-173.7515"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="piatoscano" label="piatoscano">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="20"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="567.92993" y="-186.62125"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="pourqoispas" label="pourqoispas">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="modularity_class" value="21"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.064935"></viz:size>
+        <viz:position x="-743.5124" y="-234.70108"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="potus" label="potus">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="21"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-755.0592" y="-211.34465"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="scottsellards" label="scottsellards">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="542.85864" y="619.27155"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="mailonline" label="mailonline">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="355.87695" y="635.9785"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="juliamacfarlane" label="juliamacfarlane">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="563.0547" y="410.44574"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="youtube" label="youtube">
+        <attvalues>
+          <attvalue for="indegree" value="4"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="modularity_class" value="15"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.194805"></viz:size>
+        <viz:position x="-800.76697" y="238.97273"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="seanspicer" label="seanspicer">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-548.18097" y="408.9332"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="cryme2014" label="cryme2014">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-183.6241" y="791.26086"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="yaro_rt" label="yaro_rt">
+        <attvalues>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="modularity_class" value="15"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.064935"></viz:size>
+        <viz:position x="-495.49896" y="-667.93646"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="jlo" label="jlo">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="20"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="609.9527" y="-156.25146"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="hillaryclinton" label="hillaryclinton">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="21"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-724.11584" y="-252.15932"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="evan_mcmullin" label="evan_mcmullin">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="389.84247" y="762.4074"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="elianabenador" target="rt_com" label="#wikileaks, #clinton, #clintonlies, #assange, #trump_pence">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#wikileaks, #clinton, #clintonlies, #assange, #trump_pence"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1" source="elianabenador" target="carminezozzora" label="#maga, #trumppence16">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#maga, #trumppence16"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2" source="elianabenador" target="wikileaks">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="3" source="elianabenador" target="spotmegone">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4" source="elianabenador" target="wikileaks">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="5" source="youarescrewed" target="trumpsuperpac" label="#trump, #podestaemails23, #hillary">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #podestaemails23, #hillary"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="6" source="vlenxx" target="dcexaminer">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="7" source="youarescrewed" target="trumpsuperpac" label="#trump, #podestaemails23, #hillary">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #podestaemails23, #hillary"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="8" source="kenndailjenner" target="jcoledc__">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="9" source="youarescrewed" target="justinraimondo">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="10" source="vlenxx" target="wikileaks" label="#podestaemails2">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#podestaemails2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="11" source="vlenxx" target="klsouth" label="#obama, #hillary">
+        <viz:color r="104" g="173" b="54"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="negative"></attvalue>
+          <attvalue for="hashtags" value="#obama, #hillary"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="12" source="kenndailjenner" target="justinbieberqld">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="13" source="kenndailjenner" target="beyoncexo_xo">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="14" source="kenndailjenner" target="kyiiejenner_nyc">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="15" source="holmogorov" target="business">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="16" source="serunim" target="realalexjones">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="17" source="reggsso_" target="baytato">
+        <viz:color r="104" g="173" b="54"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="negative"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="18" source="amicableru" target="skynews" label="#uselections2016">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#uselections2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="19" source="ifortknox" target="ingodidotrust">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="20" source="rouslan5" target="art2u2" label="#p2">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#p2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="21" source="orochymaru_" target="wupton">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="22" source="rouslan5" target="maddowblog">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="23" source="denisovazz" target="wikileaks">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="24" source="csinaco" target="wikileaks">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="25" source="csinaco" target="wordsmithguy" label="#neverhillary">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#neverhillary"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="26" source="csinaco" target="wikileaks">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="27" source="csinaco" target="wikileaks">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="28" source="csinaco" target="trumpsuperpac" label="#trump, #podestaemails23, #hillary">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #podestaemails23, #hillary"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="29" source="csinaco" target="realdonaldtrump">
+        <viz:color r="255" g="116" b="62"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="positive"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="30" source="csinaco" target="stefanmolyneux">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="31" source="csinaco" target="darren32895836">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="32" source="csinaco" target="kennyskynews">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="33" source="csinaco" target="auditthemedia" label="#fbi, #comey">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#fbi, #comey"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="34" source="csinaco" target="mcarrington" label="#neverhillary">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#neverhillary"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="35" source="csinaco" target="0hour1__">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="36" source="csinaco" target="wikileaks">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="37" source="seienagomezbae" target="jcoledc__">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="38" source="wisemankhalifa" target="jcoledc__">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="39" source="wisemankhalifa" target="august_aisinna">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="40" source="seienagomezbae" target="rihannabltch_">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="41" source="wisemankhalifa" target="rihannabltch_">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="42" source="seienagomezbae" target="beyoncexo_xo">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="43" source="wisemankhalifa" target="beyoncexo_xo">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="44" source="seienagomezbae" target="kyiiejenner_nyc">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="45" source="wisemankhalifa" target="kyiiejenner_nyc">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="46" source="davidfilipov" target="slate" label="#trump, #russian">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #russian"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="47" source="korrolev" target="indiebandsws" label="#hookem, #goblue, #ufvsuga, #uwvsutah, #happypunoween, #signsatthegatesofhell">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#hookem, #goblue, #ufvsuga, #uwvsutah, #happypunoween, #signsatthegatesofhell"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="48" source="mayskolpino" target="infokatsaros">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="49" source="good_mum" target="realalexjones">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="50" source="good_mum" target="snowden">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="51" source="billycrossover" target="wikileaks">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="52" source="billycrossover" target="cernovich" label="#draftourdaughters">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#draftourdaughters"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="53" source="slava381977" target="slava381977" label="#maga, #2a, #trump2016, #trumptrain">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#maga, #2a, #trump2016, #trumptrain"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="54" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="55" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="56" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="57" source="slava381977" target="slava381977" label="#trump, #trump2016, #2a">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #trump2016, #2a"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="58" source="slava381977" target="slava381977" label="#trump, #trump2016, #2a">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #trump2016, #2a"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="59" source="slava381977" target="slava381977" label="#maga, #2a, #trump2016">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#maga, #2a, #trump2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="60" source="woljf" target="qikipedia">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="61" source="billycrossover" target="wikileaks">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="62" source="slava381977" target="slava381977" label="#trump, #trump2016, #2a">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #trump2016, #2a"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="63" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016, #trumptrain">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016, #trumptrain"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="64" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="65" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016, #trumptrain">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016, #trumptrain"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="66" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016, #trumptrain">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016, #trumptrain"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="67" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016, #trumptrain">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016, #trumptrain"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="68" source="slava381977" target="slava381977" label="#trump, #trump2016, #2a">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #trump2016, #2a"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="69" source="slava381977" target="slava381977" label="#trump, #trump2016, #2a">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #trump2016, #2a"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="70" source="slava381977" target="slava381977" label="#trump, #trump2016">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #trump2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="71" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016, #trumptrain">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016, #trumptrain"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="72" source="slava381977" target="slava381977" label="#neverhillary, #god, #trump2016, #america, #bless">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#neverhillary, #god, #trump2016, #america, #bless"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="73" source="slava381977" target="slava381977" label="#usa, #2a, #trump2016, #bless, #trump, #neverhillary, #god, #america">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#usa, #2a, #trump2016, #bless, #trump, #neverhillary, #god, #america"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="74" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016, #trumptrain">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016, #trumptrain"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="75" source="slava381977" target="slava381977" label="#maga, #2a, #trump2016, #trumptrain">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#maga, #2a, #trump2016, #trumptrain"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="76" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="77" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="78" source="slava381977" target="slava381977" label="#trump, #trump2016">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #trump2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="79" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="80" source="slava381977" target="slava381977" label="#trump, #trump2016, #2a">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #trump2016, #2a"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="81" source="slava381977" target="slava381977" label="#trump, #trump2016, #2a">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #trump2016, #2a"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="82" source="slava381977" target="slava381977" label="#maga, #2a, #trump2016">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#maga, #2a, #trump2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="83" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="84" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016, #trumptrain">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016, #trumptrain"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="85" source="slava381977" target="slava381977" label="#trump, #trump2016, #2a">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #trump2016, #2a"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="86" source="slava381977" target="slava381977" label="#trump, #trump2016, #2a">
+        <viz:color r="104" g="173" b="54"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="negative"></attvalue>
+          <attvalue for="hashtags" value="#trump, #trump2016, #2a"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="87" source="slava381977" target="slava381977" label="#trump, #2a, #podestaemails, #trump2016">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #2a, #podestaemails, #trump2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="88" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="89" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016, #trumptrain">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016, #trumptrain"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="90" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016, #trumptrain">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016, #trumptrain"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="91" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016, #trumptrain">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016, #trumptrain"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="92" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016, #trumptrain">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016, #trumptrain"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="93" source="slava381977" target="slava381977" label="#trump, #trump2016, #2a">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #trump2016, #2a"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="94" source="slava381977" target="slava381977" label="#trump, #trump2016, #2a">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #trump2016, #2a"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="95" source="slava381977" target="slava381977" label="#trump, #trump2016, #2a">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #trump2016, #2a"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="96" source="slava381977" target="slava381977" label="#trump, #trump2016">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #trump2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="97" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016, #trumptrain">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016, #trumptrain"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="98" source="slava381977" target="slava381977" label="#usa, #2a, #trump2016, #bless, #trump, #neverhillary, #god, #america">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#usa, #2a, #trump2016, #bless, #trump, #neverhillary, #god, #america"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="99" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016, #trumptrain">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016, #trumptrain"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="100" source="slava381977" target="slava381977" label="#maga, #2a, #trump2016, #trumptrain">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#maga, #2a, #trump2016, #trumptrain"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="101" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="102" source="slava381977" target="slava381977" label="#trump, #trump2016">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #trump2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="103" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="104" source="slava381977" target="slava381977" label="#trump, #trump2016, #2a">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #trump2016, #2a"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="105" source="slava381977" target="slava381977" label="#trump, #trump2016, #2a">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #trump2016, #2a"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="106" source="slava381977" target="slava381977" label="#maga, #2a, #trump2016">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#maga, #2a, #trump2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="107" source="billycrossover" target="billycrossover">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="108" source="agnakagos" target="boingboing">
+        <viz:color r="104" g="173" b="54"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="negative"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="109" source="tatjapocke" target="mellberr" label="#prince">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#prince"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="110" source="slava381977" target="slava381977" label="#trump, #trump2016, #2a">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #trump2016, #2a"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="111" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="112" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016, #trumptrain">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016, #trumptrain"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="113" source="slava381977" target="slava381977" label="#trump, #trump2016, #2a">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #trump2016, #2a"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="114" source="spicy_drama" target="musicnews_feed">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="115" source="slava381977" target="slava381977" label="#trump, #trump2016, #2a">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #trump2016, #2a"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="116" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016, #trumptrain">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016, #trumptrain"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="117" source="slava381977" target="slava381977" label="#trump, #trump2016">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #trump2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="118" source="slava381977" target="slava381977" label="#trump, #trump2016, #2a">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #trump2016, #2a"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="119" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="120" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016, #trumptrain">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016, #trumptrain"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="121" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016, #trumptrain">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016, #trumptrain"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="122" source="slava381977" target="slava381977" label="#maga, #2a, #trump2016, #trumptrain">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#maga, #2a, #trump2016, #trumptrain"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="123" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016, #trumptrain">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016, #trumptrain"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="124" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="125" source="slava381977" target="slava381977" label="#trump, #trump2016, #2a">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #trump2016, #2a"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="126" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016, #trumptrain">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016, #trumptrain"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="127" source="slava381977" target="slava381977" label="#trump, #trump2016, #2a">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #trump2016, #2a"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="128" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016, #trumptrain">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016, #trumptrain"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="129" source="slava381977" target="slava381977" label="#trump, #trump2016, #2a">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #trump2016, #2a"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="130" source="elianabenador" target="realdonaldtrump" label="#msm, #clinton">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#msm, #clinton"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="131" source="vlenxx" target="judgejeanine">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="132" source="csinaco" target="trumpusmaximus" label="#gohillary">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#gohillary"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="133" source="csinaco" target="darren32895836">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="134" source="csinaco" target="immigrant4trump" label="#trump, #maga">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="135" source="slava381977" target="rt_america" label="#wikileaks, #clinton">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#wikileaks, #clinton"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="136" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="137" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="138" source="slava381977" target="rt_america" label="#wikileaks, #clinton">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#wikileaks, #clinton"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="139" source="lovejlopez" target="piatoscano" label="#epic">
+        <viz:color r="255" g="116" b="62"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="positive"></attvalue>
+          <attvalue for="hashtags" value="#epic"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="140" source="pourqoispas" target="potus">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="141" source="slava381977" target="slava381977" label="#trump, #maga, #2a, #trump2016">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="142" source="elianabenador" target="scottsellards">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="143" source="elianabenador" target="mailonline">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="144" source="vlenxx" target="juliamacfarlane" label="#gohillary">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#gohillary"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="145" source="csinaco" target="youtube">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="146" source="csinaco" target="seanspicer" label="#trump, #maga">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="147" source="csinaco" target="cryme2014" label="#wikileaks, #clinton">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#wikileaks, #clinton"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="148" source="slava381977" target="yaro_rt" label="#trump, #maga, #2a, #trump2016">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="149" source="slava381977" target="youtube" label="#trump, #maga, #2a, #trump2016">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="150" source="slava381977" target="youtube" label="#wikileaks, #clinton">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#wikileaks, #clinton"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="151" source="slava381977" target="yaro_rt" label="#epic">
+        <viz:color r="255" g="116" b="62"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="positive"></attvalue>
+          <attvalue for="hashtags" value="#epic"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="152" source="lovejlopez" target="jlo">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="153" source="pourqoispas" target="hillaryclinton" label="#trump, #maga, #2a, #trump2016">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value="#trump, #maga, #2a, #trump2016"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="154" source="slava381977" target="youtube">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="155" source="elianabenador" target="evan_mcmullin">
+        <viz:color r="0" g="183" b="218"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value=""></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="156" source="elianabenador" target="elianabenador">
+        <viz:color r="210" g="124" b="206"></viz:color>
+        <attvalues>
+          <attvalue for="sentiment" value="neutral"></attvalue>
+          <attvalue for="hashtags" value=""></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
